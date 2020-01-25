@@ -6,8 +6,8 @@ import java.util.Objects;
 import java.util.Set;
 
 /**
- * Created by jt on 5/16/17.
- */
+* Created by Joseph Crase on 1/13/2020.
+*/
 @Entity
 public class Author {
 
